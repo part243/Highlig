@@ -29,4 +29,6 @@ PARA USAR hacerlo de la siguiente manera dependiendo de la codificación cambiar
 
 <_pre name="code" class="java">  
 Aquí va el código a resaltar
-</pre>
+<_/pre>
+
+quitarle el guión _
