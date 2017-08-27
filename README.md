@@ -1,7 +1,7 @@
 # Highlig
 
 
-Agregar antes del </head> lo siguiente:
+Agregar antes del </head lo siguiente:
 
   <link type="text/css" rel="stylesheet" href="https://rawgit.com/part243/Highlig/master/SyntaxHighlighter.css"></link>
     <script src="https://rawgit.com/part243/Highlig/master/shCore.js"></script>
@@ -18,7 +18,7 @@ Agregar antes del </head> lo siguiente:
     <script src="https://rawgit.com/part243/Highlig/master/shBrushVb.js"></script>
       <script src="https://rawgit.com/part243/Highlig/master/shBrushXml.js"></script>
 
-Luego antes del </footer> el siguiente script:
+Luego antes del </footer el siguiente script:
    <script language="javascript">
         dp.SyntaxHighlighter.HighlightAll('code');
     </script>
