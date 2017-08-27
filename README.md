@@ -26,6 +26,7 @@ Luego antes del </footer el siguiente script:
 
 
 PARA USAR hacerlo de la siguiente manera dependiendo de la codificación cambiar la clase: en este caso usaremos de java
-<pre name="code" class="java">  
+
+<_pre name="code" class="java">  
 Aquí va el código a resaltar
 </pre>
